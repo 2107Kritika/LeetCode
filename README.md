@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
 ## Sorting
 |  |
@@ -20,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
