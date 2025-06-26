@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
 ## Sorting
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
