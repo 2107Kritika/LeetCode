@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2107Kritika/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/2107Kritika/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2107Kritika/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/2107Kritika/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2107Kritika/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/2107Kritika/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/2107Kritika/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
