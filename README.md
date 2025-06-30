@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/2107Kritika/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/2107Kritika/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/2107Kritika/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/2107Kritika/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/2107Kritika/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/2107Kritika/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2107Kritika/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Trie
 |  |
 | ------- |
