@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/2107Kritika/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/2107Kritika/LeetCode/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/2107Kritika/LeetCode/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/2107Kritika/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/2107Kritika/LeetCode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
