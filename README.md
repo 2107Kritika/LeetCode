@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/2107Kritika/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
