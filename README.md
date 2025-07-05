@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/2107Kritika/LeetCode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/2107Kritika/LeetCode/tree/master/0041-first-missing-positive) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
