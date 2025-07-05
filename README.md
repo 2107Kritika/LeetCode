@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2107Kritika/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Trie
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/2107Kritika/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/2107Kritika/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
