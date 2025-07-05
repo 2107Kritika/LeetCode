@@ -1,16 +1,14 @@
 class Solution {
     public boolean isHappy(int n) {
-        HashSet<Integer> seen = new HashSet<>();
+        int num1 = n;                      // like slow
+        int num2 = getSquareSum(n);       // like fast
 
-        while (n != 1) {
-            if (seen.contains(n)) {
-                return false; // Cycle detected
-            }
-            seen.add(n);
-            n = getSquareSum(n);
+        while (num2 != 1 && num1 != num2) {
+            num1 = getSquareSum(num1);                    // move 1 step
+            num2 = getSquareSum(getSquareSum(num2));      // move 2 steps
         }
 
-        return true; // n became 1 → happy number
+        return num2 == 1;
     }
 
     private int getSquareSum(int n) {
