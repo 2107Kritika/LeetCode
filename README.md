@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/2107Kritika/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/2107Kritika/LeetCode/tree/master/0198-house-robber) |
 | [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
 ## Union Find
 |  |
