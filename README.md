@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/2107Kritika/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/2107Kritika/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/2107Kritika/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/2107Kritika/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/2107Kritika/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/2107Kritika/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/2107Kritika/LeetCode/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/2107Kritika/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
