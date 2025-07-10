@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/2107Kritika/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/2107Kritika/LeetCode/tree/master/1036-rotting-oranges) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/2107Kritika/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2107Kritika/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2107Kritika/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Trie
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/2107Kritika/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
