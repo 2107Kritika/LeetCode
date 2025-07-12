@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2107Kritika/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/2107Kritika/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/2107Kritika/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Trie
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/2107Kritika/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/2107Kritika/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/2107Kritika/LeetCode/tree/master/0213-house-robber-ii) |
 | [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/2107Kritika/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/2107Kritika/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/2107Kritika/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
