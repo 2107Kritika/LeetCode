@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/2107Kritika/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/2107Kritika/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/2107Kritika/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/2107Kritika/LeetCode/tree/master/0202-happy-number) |
 ## Stack
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2107Kritika/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/2107Kritika/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/2107Kritika/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/2107Kritika/LeetCode/tree/master/0067-add-binary) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -221,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/2107Kritika/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/2107Kritika/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
