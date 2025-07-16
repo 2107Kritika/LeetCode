@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/2107Kritika/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/2107Kritika/LeetCode/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/2107Kritika/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
@@ -226,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/2107Kritika/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/2107Kritika/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/2107Kritika/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
