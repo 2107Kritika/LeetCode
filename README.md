@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/2107Kritika/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/2107Kritika/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/2107Kritika/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/2107Kritika/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/2107Kritika/LeetCode/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/2107Kritika/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/2107Kritika/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/2107Kritika/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/2107Kritika/LeetCode/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/2107Kritika/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/2107Kritika/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/2107Kritika/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/2107Kritika/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2107Kritika/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/2107Kritika/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Matrix
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/2107Kritika/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/2107Kritika/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/2107Kritika/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/2107Kritika/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/2107Kritika/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/2107Kritika/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/2107Kritika/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/2107Kritika/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -230,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/2107Kritika/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/2107Kritika/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/2107Kritika/LeetCode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/2107Kritika/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
