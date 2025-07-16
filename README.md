@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/2107Kritika/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/2107Kritika/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/2107Kritika/LeetCode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/2107Kritika/LeetCode/tree/master/0338-counting-bits) |
 | [1008-binary-tree-cameras](https://github.com/2107Kritika/LeetCode/tree/master/1008-binary-tree-cameras) |
 ## Union Find
 |  |
@@ -236,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/2107Kritika/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/2107Kritika/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/2107Kritika/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/2107Kritika/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
